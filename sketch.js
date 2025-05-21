@@ -111,3 +111,9 @@ localStorage.setItem('favoriteSauce', 'mild');
 }
 }
 }
+
+function touchStarted() {
+alert("fart");
+return false;
+}
+
